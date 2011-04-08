@@ -1,0 +1,5 @@
+http://www.ncbi.nlm.nih.gov/genbank/tbl2asn2.html 
+http://www.ncbi.nlm.nih.gov/projects/GeneRIF/GeneRIFhelp.html 
+http://www.ncbi.nlm.nih.gov/WebSub/?tool=genbank 
+http://pubchem.ncbi.nlm.nih.gov/search/search.cgi
+http://www.ncbi.nlm.nih.gov/Taxonomy/CommonTree/wwwcmt.cgi 
